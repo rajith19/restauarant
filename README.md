@@ -1,6 +1,11 @@
 # Restaurant Website
 
-- Responsive Restaurant Website Design Using HTML CSS & JavaScript
+[View Demo](https://rajith19.github.io/restauarant/)
+
+A responsive restaurant website built using modern web development techniques.
+
+## Features
+
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Includes a dark & light theme.
